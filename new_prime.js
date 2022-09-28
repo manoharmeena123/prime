@@ -5,6 +5,7 @@ for(let i=0; i<num; i++{
     count++;
 }
 if(count==2){
-console.log(" not prime");
+console.log("prime");
 }esle{
-console.log("prime")
+console.log(" not prime");
+}
